@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.less"],"names":[],"mappings":"AAAA;EACE,WAAA;EACA,YAAA;;AAGF;EACE,WAAA;EACA,YAAA","file":"client.e31bb0bc.css","sourceRoot":"../src/client","sourcesContent":["#app {\n  width: 100%;\n  height: 100%;\n}\n\n#google-map {\n  width: 100%;\n  height: 100%;\n}"]}

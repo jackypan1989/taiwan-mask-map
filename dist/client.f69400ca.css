@@ -1,0 +1,19 @@
+#app {
+  width: 100%;
+  height: 100%;
+}
+.main-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.main-container .header {
+  font-size: 24px;
+}
+.main-container .header .info {
+  margin-right: 16px;
+}
+
+
+/*# sourceMappingURL=/client.f69400ca.css.map */
