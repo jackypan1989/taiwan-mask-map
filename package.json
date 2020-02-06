@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/client/index.html",
-    "build": "parcel build src/client/index.html --public-url /taiwan-mask-map/"
+    "build": "parcel build src/client/index.html"
   },
   "dependencies": {
     "@react-google-maps/api": "^1.8.3",

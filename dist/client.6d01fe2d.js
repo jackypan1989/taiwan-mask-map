@@ -189,4 +189,4 @@ module.exports=function(n){return new Promise(function(e,o){var r=document.creat
 },{}],0:[function(require,module,exports) {
 var b=require("yU0Q");b.register("js",require("Bs6y"));
 },{}]},{},[0,"zo2T"], null)
-//# sourceMappingURL=/taiwan-mask-map/client.6d01fe2d.js.map
+//# sourceMappingURL=/client.6d01fe2d.js.map
