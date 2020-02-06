@@ -1,6 +1,6 @@
 # taiwan-mask-map (台灣藥局剩餘口罩地圖)
 
-https://jackypan1989.github.io/taiwan-mask-map
+連結 => https://jackypan1989.github.io/taiwan-mask-map  
 注：由於 Google 圖資 API 太貴，目前先用開發模式 (畫面灰色但一樣可以使用) 😂
 
 ## Features
